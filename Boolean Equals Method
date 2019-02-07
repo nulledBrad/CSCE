@@ -1,0 +1,15 @@
+
+	public boolean equals(Movie a)
+	{
+		if(this.name.equals(a.name)&&
+				this.year == (a.year)
+				&& this.rating ==(a.rating)
+				&& this.director.equals(a.director)
+				&& this.gross == (a.gross))
+		{
+			return true;
+			
+		}
+		return false;
+		
+	}
