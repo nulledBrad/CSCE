@@ -1,0 +1,5 @@
+//TO STRING
+	public String toString()
+	{
+		return "Name: " + name + " Year: " + year + " Rating: " + rating + " Director: " + director + " Gross: " + gross; 
+	}
